@@ -3,4 +3,3 @@ public class Printp3 {
 		System.out.printf("Printing Method to format");
 	}
 }
-
