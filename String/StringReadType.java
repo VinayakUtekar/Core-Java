@@ -1,4 +1,4 @@
-class StringDisplay{
+class StringReadType{
     public static void main(String args[]){
         
         //signle line string
