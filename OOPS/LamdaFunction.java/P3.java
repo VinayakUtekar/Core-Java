@@ -2,7 +2,7 @@ interface Compute{
     int add(int a,int b);
 }
     
-class P6{
+class P3{
     public static void main(String args[]){
     
     //return type
