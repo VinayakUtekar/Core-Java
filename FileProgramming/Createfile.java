@@ -1,5 +1,5 @@
 import java.io.*;
-class CreateFile{
+class Createfile{
     public static void main(String args[]){
         Console c = System.console();
         String filename = c.readLine("Enter filename : ");
